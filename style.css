@@ -1,0 +1,89 @@
+/* body styling */
+body {
+    padding:0px;
+    margin:0px;
+    background-color: rgb(255, 222, 172);
+}
+/* header styling */
+header {
+    background:rgba(37, 64, 66,.75);
+    padding-top: 24px;
+    height: 120px;
+    margin:0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+header a {
+    text-decoration:none;
+    color: rgb(255, 222, 172);
+    font-size: 68px;
+}
+header a:hover {
+    color:rgba(0, 238, 255, 0.75)
+}
+
+/* navigation bar styling */
+#navbar {
+    overflow: hidden;
+    background-color:black
+}
+#navbar a {
+    float:left;
+    display: block;
+    color:rgb(253, 199, 119);
+    text-align:center;
+    padding: 14px 28px;
+    text-decoration: none;
+}
+#navbar a:hover{
+    background:rgba(0, 238, 235,.75);
+    color:black;
+}
+
+/* Styling for the barrens and coorosponding text image */
+
+.barrens {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right:auto;
+    width: auto;
+    height: auto;
+    Border: rgba(37, 64, 66,.75) 4px solid;
+
+}
+.barrens-text {
+    margin-top:0;
+    margin-bottom: 24px;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:1000px;
+    padding: 14px;
+    background-color:rgba(37, 64, 66,.75);
+    font-size:24px;
+    letter-spacing: 1px;
+    color:rgb(255, 222, 172)
+}
+
+/* footer styling */
+
+.botnav {
+    background-color: rgba(0, 0, 0, 1);
+    overflow: hidden;
+    bottom: 0;
+    width: 100%;
+}
+.botnav a {
+    float: left;
+    display: block;
+    color: rgb(255, 222, 172);
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size:17px;
+    text-transform: uppercase; 
+}
+.botnav a:hover{
+    color: rgba(0, 238, 255, 0.75);
+}
