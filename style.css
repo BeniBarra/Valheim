@@ -2,7 +2,7 @@
 body {
     padding:0px;
     margin:0px;
-    background-color: rgb(255, 222, 172);
+    background-color: rgb(223, 223, 209);
 }
 /* header styling */
 header {
@@ -15,7 +15,7 @@ header {
 }
 header a {
     text-decoration:none;
-    color: rgb(255, 222, 172);
+    color: rgb(223, 223, 209);
     font-size: 68px;
 }
 header a:hover {
@@ -30,7 +30,7 @@ header a:hover {
 #navbar a {
     float:left;
     display: block;
-    color:rgb(253, 199, 119);
+    color:rgb(223, 223, 209);
     text-align:center;
     padding: 14px 28px;
     text-decoration: none;
@@ -63,7 +63,7 @@ header a:hover {
     background-color:rgba(37, 64, 66,.75);
     font-size:24px;
     letter-spacing: 1px;
-    color:rgb(255, 222, 172)
+    color:rgb(223, 223, 209)
 }
 
 /* footer styling */
@@ -77,7 +77,7 @@ header a:hover {
 .botnav a {
     float: left;
     display: block;
-    color: rgb(255, 222, 172);
+    color: rgb(223, 223, 209);
     text-align:center;
     padding: 14px 16px;
     text-decoration:none;
